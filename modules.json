@@ -1,19 +1,19 @@
 {
   "name": "ShizukuX 官方模块仓库",
   "schemaVersion": 1,
-  "updatedAt": 1794232466,
+  "updatedAt": 1794233370,
   "modules": [
     {
       "id": "shizukux.recorder",
       "name": "记录模块",
-      "version": "1.0.0",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "versionCode": 2,
       "author": "qianyumeng0228",
       "description": "把设备信息与运行状态记录到模块目录，供排查与留档。",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/shizukux.recorder-1.0.0.zip",
-      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/shizukux.recorder-1.0.0.zip",
-      "sizeBytes": 2028,
-      "sha256": "7f33d047fd27ff7fa57f729b8ec2b341609db3e473df54ae5d3482abd72d6ddd",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/shizukux.recorder-1.0.1.zip",
+      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/shizukux.recorder-1.0.1.zip",
+      "sizeBytes": 2308,
+      "sha256": "0e8fc63105f758b0f57c12551987df0407781f639caf6938bdd4d7a21c2fe19a",
       "minSdk": 28,
       "hasAction": true,
       "hasService": true,
@@ -22,7 +22,7 @@
         "记录",
         "设备信息"
       ],
-      "lastUpdated": 1794232466
+      "lastUpdated": 1794233370
     }
   ]
 }
