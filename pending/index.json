@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794414664,
+  "updatedAt": 1794414684,
   "submissions": [
     {
       "ticket": "t_mwcc5sl9_908de1d6",
@@ -19,7 +19,9 @@
       "pendingPath": "pending/upload.selftest-1.0.1.zip",
       "submittedAt": 1794414664,
       "submitterHash": "f18881f657bbde78",
-      "status": "pending"
+      "status": "approved",
+      "reviewedAt": 1794414684,
+      "reason": null
     }
   ]
 }
