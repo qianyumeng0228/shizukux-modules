@@ -1,7 +1,7 @@
 {
   "name": "ShizukuX 官方模块仓库",
   "schemaVersion": 1,
-  "updatedAt": 1794422565,
+  "updatedAt": 1794422915,
   "modules": [
     {
       "id": "shizukux.recorder",
@@ -23,6 +23,31 @@
         "设备信息"
       ],
       "lastUpdated": 1794420026
+    },
+    {
+      "id": "shizukux.uploaddemo",
+      "name": "UploadDemoV2",
+      "version": "1.0.0",
+      "versionCode": 3,
+      "author": "qianyumeng0228",
+      "description": "Plain module used to test the upload sheet",
+      "nameZh": null,
+      "descriptionZh": null,
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/shizukux.uploaddemo-1.0.0.zip",
+      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/shizukux.uploaddemo-1.0.0.zip",
+      "sizeBytes": 409,
+      "sha256": "ce52c9af6e9d6b2c4b31b889b72cacea9de44ac8197a675a4909f89bee7d1a64",
+      "minSdk": null,
+      "hasAction": false,
+      "hasService": true,
+      "usesWebUI": false,
+      "declaresShellBridge": false,
+      "tags": [
+        "alpha",
+        "beta"
+      ],
+      "lastUpdated": 1794422914,
+      "sourceRepo": null
     }
   ]
 }
