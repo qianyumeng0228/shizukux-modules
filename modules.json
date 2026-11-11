@@ -1,7 +1,7 @@
 {
   "name": "ShizukuX 官方模块仓库",
   "schemaVersion": 1,
-  "updatedAt": 1794419671,
+  "updatedAt": 1794419834,
   "modules": [
     {
       "id": "shizukux.recorder",
@@ -27,14 +27,14 @@
     {
       "id": "upload.selftest",
       "name": "UploadSelftestEdited",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "versionCode": 5,
       "author": "ShizukuX",
       "description": "仅用于验证已上架模块信息编辑",
       "nameZh": "上传自检模块",
       "descriptionZh": "仅用于验证上传链路",
-      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/upload.selftest-1.0.4.zip",
-      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/upload.selftest-1.0.4.zip",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/upload.selftest-1.0.5.zip",
+      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/upload.selftest-1.0.5.zip",
       "sizeBytes": 388,
       "sha256": "2297f06ccda88b73d82e671c2fdb9888d3bf727fb33ed5d29b3a30e76daf33f2",
       "minSdk": null,
@@ -43,7 +43,7 @@
       "usesWebUI": false,
       "declaresShellBridge": false,
       "tags": [],
-      "lastUpdated": 1794419671,
+      "lastUpdated": 1794419834,
       "sourceRepo": null
     }
   ]
