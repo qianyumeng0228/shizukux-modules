@@ -1,7 +1,7 @@
 {
   "name": "ShizukuX 官方模块仓库",
   "schemaVersion": 1,
-  "updatedAt": 1794416947,
+  "updatedAt": 1794417659,
   "modules": [
     {
       "id": "shizukux.recorder",
@@ -23,6 +23,28 @@
         "设备信息"
       ],
       "lastUpdated": 1794234065
+    },
+    {
+      "id": "upload.selftest",
+      "name": "上传自检模块",
+      "version": "1.0.2",
+      "versionCode": 3,
+      "author": "ShizukuX",
+      "description": "仅用于验证上传链路（issue 同步）",
+      "nameZh": "上传自检模块",
+      "descriptionZh": "仅用于验证上传链路",
+      "downloadUrl": "https://cdn.jsdelivr.net/gh/qianyumeng0228/shizukux-modules@main/modules/upload.selftest-1.0.2.zip",
+      "fallbackUrl": "https://raw.githubusercontent.com/qianyumeng0228/shizukux-modules/main/modules/upload.selftest-1.0.2.zip",
+      "sizeBytes": 387,
+      "sha256": "b1567985c577d004a09840a5cae09b3fb12859d4fc831473c13d43d4a9d50a9f",
+      "minSdk": null,
+      "hasAction": false,
+      "hasService": true,
+      "usesWebUI": false,
+      "declaresShellBridge": false,
+      "tags": [],
+      "lastUpdated": 1794417659,
+      "sourceRepo": null
     }
   ]
 }
