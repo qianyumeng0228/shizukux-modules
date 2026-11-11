@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794418360,
+  "updatedAt": 1794418375,
   "submissions": [
     {
       "ticket": "t_mwcdsh4i_c74d8105",
@@ -42,9 +42,11 @@
       "pendingPath": "pending/upload.selftest-1.0.2.zip",
       "submittedAt": 1794418352,
       "submitterHash": "f18881f657bbde78",
-      "status": "pending",
+      "status": "approved",
       "issueNumber": 4,
-      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/4"
+      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/4",
+      "reviewedAt": 1794418375,
+      "reason": null
     },
     {
       "ticket": "t_mwceczww_7007fa95",
