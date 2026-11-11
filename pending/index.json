@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794422567,
+  "updatedAt": 1794422901,
   "submissions": [
     {
       "ticket": "t_mwcdsh4i_c74d8105",
@@ -142,6 +142,30 @@
       "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/8",
       "reviewedAt": 1794422493,
       "reason": null
+    },
+    {
+      "ticket": "t_mwch2bpf_ef087639",
+      "id": "shizukux.uploaddemo",
+      "version": "1.0.0",
+      "versionCode": 3,
+      "name": "UploadDemoV2",
+      "author": "qianyumeng0228",
+      "description": "Plain module used to test the upload sheet",
+      "nameZh": null,
+      "descriptionZh": null,
+      "tags": [
+        "alpha",
+        "beta"
+      ],
+      "sourceRepo": null,
+      "sizeBytes": 409,
+      "sha256": "ce52c9af6e9d6b2c4b31b889b72cacea9de44ac8197a675a4909f89bee7d1a64",
+      "pendingPath": "pending/shizukux.uploaddemo-1.0.0.zip",
+      "submittedAt": 1794422900,
+      "submitterHash": "9485ce193754d70d",
+      "status": "pending",
+      "issueNumber": 9,
+      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/9"
     }
   ]
 }
