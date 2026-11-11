@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794414684,
+  "updatedAt": 1794415091,
   "submissions": [
     {
       "ticket": "t_mwcc5sl9_908de1d6",
@@ -22,6 +22,25 @@
       "status": "approved",
       "reviewedAt": 1794414684,
       "reason": null
+    },
+    {
+      "ticket": "t_mwccexiw_3a4a11d3",
+      "id": "upload.selftest",
+      "version": "1.0.1",
+      "versionCode": 2,
+      "name": "上传自检模块",
+      "author": "ShizukuX",
+      "description": "仅用于验证 App 内真实提交链路",
+      "nameZh": null,
+      "descriptionZh": null,
+      "tags": [],
+      "sourceRepo": null,
+      "sizeBytes": 410,
+      "sha256": "8d74de06e94b1790c96e88208ffbe2ba535ee21da787917f364502ecc9a90cbd",
+      "pendingPath": "pending/upload.selftest-1.0.1.zip",
+      "submittedAt": 1794415091,
+      "submitterHash": "9485ce193754d70d",
+      "status": "pending"
     }
   ]
 }
