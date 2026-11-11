@@ -1,7 +1,7 @@
 {
   "name": "ShizukuX 官方模块仓库",
   "schemaVersion": 1,
-  "updatedAt": 1794419176,
+  "updatedAt": 1794419671,
   "modules": [
     {
       "id": "shizukux.recorder",
@@ -26,7 +26,7 @@
     },
     {
       "id": "upload.selftest",
-      "name": "上传自检模块",
+      "name": "UploadSelftestEdited",
       "version": "1.0.4",
       "versionCode": 5,
       "author": "ShizukuX",
@@ -43,7 +43,7 @@
       "usesWebUI": false,
       "declaresShellBridge": false,
       "tags": [],
-      "lastUpdated": 1794419175,
+      "lastUpdated": 1794419671,
       "sourceRepo": null
     }
   ]
