@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794416878,
+  "updatedAt": 1794416918,
   "submissions": [
     {
       "ticket": "t_mwcdh8bh_b153e470",
@@ -19,9 +19,11 @@
       "pendingPath": "pending/upload.selftest-v1.0.2.zip",
       "submittedAt": 1794416877,
       "submitterHash": "f18881f657bbde78",
-      "status": "pending",
+      "status": "rejected",
       "issueNumber": 1,
-      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/1"
+      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/1",
+      "reviewedAt": 1794416918,
+      "reason": "联调验证：版本号前缀规范化重测"
     }
   ]
 }
