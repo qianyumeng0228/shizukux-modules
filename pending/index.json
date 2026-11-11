@@ -1,1 +1,27 @@
-{"schemaVersion":1,"updatedAt":1794415292,"submissions":[]}
+{
+  "schemaVersion": 1,
+  "updatedAt": 1794416878,
+  "submissions": [
+    {
+      "ticket": "t_mwcdh8bh_b153e470",
+      "id": "upload.selftest",
+      "version": "v1.0.2",
+      "versionCode": 3,
+      "name": "上传自检模块",
+      "author": "ShizukuX",
+      "description": "仅用于验证上传链路（issue 同步）",
+      "nameZh": "上传自检模块",
+      "descriptionZh": "仅用于验证上传链路",
+      "tags": [],
+      "sourceRepo": null,
+      "sizeBytes": 387,
+      "sha256": "b1567985c577d004a09840a5cae09b3fb12859d4fc831473c13d43d4a9d50a9f",
+      "pendingPath": "pending/upload.selftest-v1.0.2.zip",
+      "submittedAt": 1794416877,
+      "submitterHash": "f18881f657bbde78",
+      "status": "pending",
+      "issueNumber": 1,
+      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/1"
+    }
+  ]
+}
