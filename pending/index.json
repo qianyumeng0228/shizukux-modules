@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1794468919,
+  "updatedAt": 1794469594,
   "submissions": [
     {
       "ticket": "t_mwcdsh4i_c74d8105",
@@ -186,9 +186,11 @@
       "pendingPath": "pending/shizukux.uploaddemo-1.0.0.zip",
       "submittedAt": 1794468918,
       "submitterHash": "78c7a1727225f0e3",
-      "status": "pending",
+      "status": "rejected",
       "issueNumber": 10,
-      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/10"
+      "issueUrl": "https://github.com/qianyumeng0228/shizukux-modules/issues/10",
+      "reviewedAt": 1794469594,
+      "reason": "测试"
     }
   ]
 }
